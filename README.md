@@ -1,0 +1,1 @@
+Projeto feito com a intenção de estudos de webpack.
